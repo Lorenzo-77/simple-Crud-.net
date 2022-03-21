@@ -1,0 +1,13 @@
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.deps.json
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.pdb
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.vbproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfo.vb
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.vbproj.CopyComplete
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\Lorenzo\Desktop\curso .net\Crud-net\Crud-net\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.pdb
